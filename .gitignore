@@ -1,0 +1,17 @@
+# Environment & secrets
+.env
+
+# Virtual environment
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Vector database (regenerate by running ingest.py)
+db/*
+!db/.gitkeep
+
+# OS / editor junk
+.DS_Store
+.vscode/
+*.log

@@ -1,0 +1,32 @@
+Company Factsheet: Aether Robotics Inc.
+
+Founded in 2019, Aether Robotics Inc. designs autonomous warehouse robots for
+mid-sized logistics companies. The company is headquartered in Austin, Texas,
+and employs approximately 140 people across engineering, sales, and support.
+
+Product Line:
+Aether's flagship product is the "Pathfinder X3" autonomous mobile robot,
+released in 2023. The Pathfinder X3 can carry loads up to 500 kilograms and
+navigates warehouses using LiDAR and computer vision, without requiring fixed
+floor markers or magnetic strips.
+
+Financial Performance:
+For the fiscal year 2025, Aether Robotics reported net revenue of $42 million,
+representing a 31% year-over-year increase. Gross margin improved to 38%, up
+from 33% in fiscal year 2024. The company attributes this growth to expanded
+sales in the e-commerce fulfillment sector.
+
+Leadership:
+The company is led by CEO Maria Chen, who previously worked as a robotics
+engineer at a major automotive manufacturer. The CTO, David Okafor, joined
+in 2021 and oversees the autonomy software team.
+
+Future Plans:
+Aether Robotics has announced plans to expand into the European market in
+2027, with a new regional office planned for Rotterdam, Netherlands. The
+company is also developing a smaller robot model, the "Pathfinder X1",
+targeted at small and medium-sized warehouses with tighter aisle spacing.
+
+This document is a sample placeholder. Replace the files in the data/ folder
+with your own PDF, DOCX, or TXT documents before running the ingestion
+pipeline.
